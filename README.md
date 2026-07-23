@@ -1,4 +1,4 @@
-# Date :
+# Date :23.07.2026
 ## Ex.-No-2-Interconnecting-Two-LANs-Using-a-Router-Basic-Router-Configuration
 
 
@@ -52,9 +52,12 @@ Router(config-if)# ip address 192.168.2.1 255.255.255.0<br>
 Router(config-if)# no shutdown<br>
 ________________________________________
 # Output (Screenshots)
-•	Router CLI configuration<br>
-•	IP configurations on PCs<br>
-•	Successful ping between PC0 and PC1<br>
+<img width="1917" height="1076" alt="Screenshot 2026-07-23 155702" src="https://github.com/user-attachments/assets/242f1fec-fbcf-40e1-b03d-dcc2698fa752" />
+<img width="1917" height="1077" alt="Screenshot 2026-07-23 155713" src="https://github.com/user-attachments/assets/e7f76001-c826-4977-8b89-956ff3e401a1" />
+<img width="1915" height="1073" alt="Screenshot 2026-07-23 155720" src="https://github.com/user-attachments/assets/7f368693-6326-4372-af9e-ef1b8040fbf3" />
+<img width="1917" height="1078" alt="Screenshot 2026-07-23 155650" src="https://github.com/user-attachments/assets/23dcded4-f025-425a-81e6-a56d68def985" />
+<img width="1917" height="1073" alt="Screenshot 2026-07-23 155613" src="https://github.com/user-attachments/assets/c3f6b6f4-e656-4b0c-89c5-2714a18644f6" />
+
 ________________________________________
 # Result
 Successfully configured a router to connect two LANs. Communication between PC0 and PC1 across different networks was tested and verified.
