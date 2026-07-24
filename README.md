@@ -1,4 +1,4 @@
-# Date :23.07.2026
+# Date :23/07/2026
 ## Ex.-No-2-Interconnecting-Two-LANs-Using-a-Router-Basic-Router-Configuration
 
 
@@ -52,11 +52,13 @@ Router(config-if)# ip address 192.168.2.1 255.255.255.0<br>
 Router(config-if)# no shutdown<br>
 ________________________________________
 # Output (Screenshots)
-<img width="1917" height="1076" alt="Screenshot 2026-07-23 155702" src="https://github.com/user-attachments/assets/242f1fec-fbcf-40e1-b03d-dcc2698fa752" />
-<img width="1917" height="1077" alt="Screenshot 2026-07-23 155713" src="https://github.com/user-attachments/assets/e7f76001-c826-4977-8b89-956ff3e401a1" />
-<img width="1915" height="1073" alt="Screenshot 2026-07-23 155720" src="https://github.com/user-attachments/assets/7f368693-6326-4372-af9e-ef1b8040fbf3" />
-<img width="1917" height="1078" alt="Screenshot 2026-07-23 155650" src="https://github.com/user-attachments/assets/23dcded4-f025-425a-81e6-a56d68def985" />
-<img width="1917" height="1073" alt="Screenshot 2026-07-23 155613" src="https://github.com/user-attachments/assets/c3f6b6f4-e656-4b0c-89c5-2714a18644f6" />
+<img width="1917" height="1018" alt="Screenshot 2026-07-23 155058" src="https://github.com/user-attachments/assets/50ea9039-ec07-42ee-ab62-bfae0f0a6e7b" />
+<img width="1916" height="1007" alt="Screenshot 2026-07-23 155119" src="https://github.com/user-attachments/assets/5888a1e3-4844-41f7-9963-22eaaa2a5b6d" />
+<img width="1915" height="1012" alt="Screenshot 2026-07-23 155131" src="https://github.com/user-attachments/assets/793f7b90-f6b2-4864-9b86-8d822b09e5b2" />
+<img width="1910" height="1020" alt="Screenshot 2026-07-23 155749" src="https://github.com/user-attachments/assets/934f6268-28d4-42ad-adc2-3b5c581981a1" />
+<img width="1917" height="1015" alt="Screenshot 2026-07-23 154959" src="https://github.com/user-attachments/assets/b242dda0-ee00-4e15-a670-1541db8cb4b6" />
+<img width="1917" height="1011" alt="Screenshot 2026-07-23 155029" src="https://github.com/user-attachments/assets/db1dbdbc-b506-4314-91b7-f023d43b824e" />
+
 
 ________________________________________
 # Result
